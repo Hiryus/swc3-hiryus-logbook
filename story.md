@@ -31,7 +31,7 @@ counterattack on E13S6, SteveTrov’s first remote mine. E11S7 spawned three att
 ATTACK and MOVE parts only. After some pathfinding approximations, they entered SteveTrov’s room
 and began disturbing the remote mining operation.
 
-![disturbing remote mining operations](img/disturbing_remote_mining_operations.gif)
+<img src="img/disturbing_remote_mining_operations.gif" alt="Disturbing remote mining operations" style="max-height: 100px;"/>
 
 While I was doing a quick update to include one HEAL part to my attackers body, SteveTrov reacted
 and fixed a few bugs in his defenders behavior: they began kiting quite effectively. It was time to
@@ -84,7 +84,7 @@ had to be patient and wait for them to eventually die from old age.
 
 When my room got back to nominal performances, I began sending creeps against RediJedi, helping
 geir1983 to clear some rooms. Cooperation payed off and we destroyed two rooms and geir1983 was
-also applying a lot of presure against RediJedi main base.
+also applying a lot of pressure against RediJedi main base.
 
 ![Cleaning rooms together](img/cleaning_rooms_together.gif)
 
@@ -101,3 +101,67 @@ handle. Fortunately, they broke formation and the tower finally killed them:
 Still, I was not really confident about the next attack. In parallel, he was also sending similar
 squads against my remote mines for some time. My AI was ignoring them, sending remote miners back
 in when the attacker were timing out.
+
+As I needed to get out for a bit, I told my AI to claim E13S9. I wasn't expecting it to last as
+E15S9 was still using a safe mode, but who knows ?
+
+When I came back, E13S9 was indeed collapsing, spawn destroyed and room back to level 1. However,
+E15S9 was dead too! It looks like the room didn't developed as expected and my earlier fails didn't
+let enough time on the safe mode timer to get to RCL3 before SteveTrov attack.
+
+![The situation when I came back](img/situation_2017-11-18_20-30.png)
+
+The good news though is that Atavus came back, whitelisted me and did a good job at arrassing
+Ricane's colony which was struggling to survive.
+
+![An example of Atavus attack](img/31358186486.gif)
+
+"So, what should I do now?", I asked me. My attack code clearly needed improvements and I was
+probably not going to kill anything at this point. Fair enough, I could still play defensively.
+
+First of, I sent a claimer to E6S9 from where Nyoom was expelled by Geir1983 earlier. The room is
+further away from SteveTov who was my main problem so far and it had a nice Oxygen source which I
+was lacking after E15S9 loss. Also, the room has two sources and the controller nearby each other
+which is always nice.
+
+![E6S9 auto-generated layout](img/E6S9_layout.png)
+
+Then, I start working on proper attack code. I was far from the end when bonzaiferroni and Geir1983
+asked for coordinated attack against RediJedi who was the only one of his team remaining in the
+left sector.
+
+We had already harassed him for hours, but his tower was still up and shooting. Geir1983 and
+bonzaiferroni packed an impressive amount of creeps (6 creeps squad for bonzaiferroni!). Except
+bonzaiferroni who had a RC5 room, we were all RCL4 which is not the easiest way to take a tower
+down.
+
+On my side, I spawned my usual melee attackers and sent them in E6S3 which RediJedi was using to
+back up his main room (his main only had one source and was struggling with energy). In the
+meantime, bonzaiferroni and Geir1983 sent their squads in the E5S3, the said main room.
+
+After a quick one-sided match, my creeps shut down mining operations in E6S3. Our squads arrived in
+E5S3 a bit later. They stood up while the tower was unleashing its mighty shots at blank range and
+survived the onslaught without a dent in their painting. Shortly, the tower ran out of energy and
+we released the squirrels. They made a short work of the remaining creeps and structures, sacking
+everything.
+
+While everyone was watching the fight, I also sent another attack team sneaking behind enemy lines
+towards wtfrank second room. That was a 9 rooms trip between source keepers and hostile rooms, but
+they actually did it to my own surprise.
+
+![The attack path](img/9958421.png)
+
+There, they didn't find much resistance. The room had no tower and by the time defenders came in,
+the spawn was destroyed without anyone trying to stop my creep. All creeps and structures followed
+shortly.
+
+![The glorious march to the spawn](img/315165841651.gif)
+
+I kept my creeps in the room to prevent rebuilding. wtfrank sent several vagues of defenders in the
+form of three kiters with heal parts. They were much less effective than SteveTov ones though and
+struggled to repelled my creeps. I'm not sure why, but they usually stayed by the edge of the map,
+entering and leaving without adding much damage to my creeps.
+
+![squirrels dancing while wtfrank creeps are entering and leaving the room](img/1012185.gif)
+
+
