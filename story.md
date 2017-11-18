@@ -161,4 +161,6 @@ entering and leaving without adding much damage to my creeps.
 
 ![squirrels dancing while wtfrank creeps are entering and leaving the room](img/1012185.gif)
 
+After that, it was clearly time to get some sleep and I left the game in my AI hands for the night.
 
+![Maps situation](img/situation_2017-11-19_00-50.png)
