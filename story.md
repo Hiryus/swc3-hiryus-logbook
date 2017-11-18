@@ -31,7 +31,7 @@ counterattack on E13S6, SteveTrov’s first remote mine. E11S7 spawned three att
 ATTACK and MOVE parts only. After some pathfinding approximations, they entered SteveTrov’s room
 and began disturbing the remote mining operation.
 
-![disturbing remote mining operations](img/disturbing_remote_mining_operations.gif)
+![disturbing remote mining operations](img/1.disturbing_remote_mining_operations.gif)
 
 While I was doing a quick update to include one HEAL part to my attackers body, SteveTrov reacted
 and fixed a few bugs in his defenders behavior: they began kiting quite effectively. It was time to
