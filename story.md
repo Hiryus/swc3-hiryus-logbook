@@ -31,7 +31,7 @@ counterattack on E13S6, SteveTrov’s first remote mine. E11S7 spawned three att
 ATTACK and MOVE parts only. After some pathfinding approximations, they entered SteveTrov’s room
 and began disturbing the remote mining operation.
 
-<img src="img/disturbing_remote_mining_operations.gif" alt="Disturbing remote mining operations" style="max-height: 100px;"/>
+![disturbing remote mining operations](img/disturbing_remote_mining_operations.gif)
 
 While I was doing a quick update to include one HEAL part to my attackers body, SteveTrov reacted
 and fixed a few bugs in his defenders behavior: they began kiting quite effectively. It was time to
@@ -113,9 +113,6 @@ let enough time on the safe mode timer to get to RCL3 before SteveTrov attack.
 
 The good news though is that Atavus came back, whitelisted me and did a good job at arrassing
 Ricane's colony which was struggling to survive.
-
-![An example of Atavus attack](img/31358186486.gif)
-
 "So, what should I do now?", I asked me. My attack code clearly needed improvements and I was
 probably not going to kill anything at this point. Fair enough, I could still play defensively.
 
